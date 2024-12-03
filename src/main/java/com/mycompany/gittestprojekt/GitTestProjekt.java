@@ -4,13 +4,11 @@
 
 package com.mycompany.gittestprojekt;
 
-/**
- *
- * @author Isatu
- */
+
 public class GitTestProjekt {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int summe = 10 + 20;
+        System.out.println("Hello Git + summe!");
     }
 }
